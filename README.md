@@ -2,7 +2,7 @@
 ### Gio Va :monkey:
 <p align="center">
 
-<img alt="Gengar Face" width="250" src="https://raw.githubusercontent.com/gffuma/gffuma/master/gengarbit.png">
+<img alt="Gengar Face" width="250" src="https://raw.githubusercontent.com/gffuma/gffuma/master/gengarround.png">
 </p>
 
 <!--
